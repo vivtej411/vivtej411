@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m <b>Vivek Gobburu</b>
 
-- 👨‍💻 Final Year Student at <b>IIT (ISM)</b>.
+- 👨‍💻 Graduated from <b>IIT (ISM), Dhanbad</b>.
 
 - 🔭 I’m currently working on <b>Web Development Skills</b>.
  
