@@ -3,13 +3,13 @@
 
 - 👋 Hi, I’m <b>Vivek Gobburu</b>
 
-- 👨‍💻 Graduated from <b>IIT (ISM), Dhanbad</b>.
+- 👨‍💻 B.Tech in Computer Science and Engineering, Graduated from <b>IIT (ISM), Dhanbad</b>.
 
-- 🔭 I’m currently working on <b>Web Development Skills</b>.
+- 🔭 I’m currently working on exlploring and enhancing <b>Web Development Skills</b>.
  
-- 👀 I’m interested in <b>competitive programming and web development</b>.
+- 👀 I’m interested in <b>competitive programming and Software Development</b>.
 
-- 🌱 I’m currently learning <b>Competitive programming in C++ , C  and Web development.</b>
+- 🌱 I’m currently learning <b>Competitive programming in C++ , C  and Web development Technologies.</b>
 
 - 💞️ I’m looking to collaborate on any projects involving above skills.
 
@@ -48,4 +48,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+ <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1c218f47498d8637de949b2339161407b0b31d1a7ad1d3dee50e43fd7b127def/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" alt="git" width="40" height="40"/> </a>
+  <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512w/spring-logo.png" alt="git" width="40" height="40"/> </a>
 </p>
